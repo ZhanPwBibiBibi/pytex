@@ -57,7 +57,7 @@ writer.save()
 将会输出demo.pdf，如下所示：
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fpssgz5il0j30u62mokhd.jpg)
 
-## To DO
+## To Do
 * [ ] 行尾标点优化
 * [ ] 下划线
 * [ ] 删除线

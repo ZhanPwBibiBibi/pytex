@@ -1,4 +1,7 @@
 # pytex
+
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 将python当成你的文本编辑器，直接将内容输出为pdf文档。
 无需转换格式，**直接**将你的文字以pdf的格式呈现。
 ## Usage
@@ -58,6 +61,7 @@ writer.save()
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fpssgz5il0j30u62mokhd.jpg)
 
 ## To Do
+More features are on the way
 * [ ] 行尾标点优化
 * [ ] 下划线
 * [ ] 删除线
